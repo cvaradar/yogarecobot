@@ -1,0 +1,7 @@
+flask
+python-dotenv
+botbuilder-core
+azure-cognitiveservices-vision-computervision
+azure-cognitiveservices-speech
+openai
+pydub
